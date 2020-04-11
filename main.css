@@ -10,27 +10,27 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-.1 {
+#red {
   color: #f00;
 }
 
-.2 {
+#orange {
   color: #ffa500;
 }
 
-.3 {
+#yellow {
   color: #ff0;
 }
 
-.4 {
+#green {
   color: #00bc3f;
 }
 
-.5 {
+#indigo {
   color: #06f;
 }
 
-.6 {
+#violet {
   color: #8a2be2;
 }
 
